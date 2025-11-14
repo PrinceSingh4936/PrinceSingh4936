@@ -91,7 +91,7 @@ Blockchain-powered agreement system.
 
 # 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrinceSingh4936/PrinceSingh4936/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/PrinceSingh4936/PrinceSingh4936/main/dist/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
