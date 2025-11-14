@@ -90,7 +90,7 @@ Blockchain-powered agreement system.
 ---
 
 # 🌐 Connect With Me
-📩 **Email:** *(add your email)*  
+📩 **Email:** *prince.singh.de@gmail.com*  
 💼 **LinkedIn:** www.linkedin.com/in/prince-singh-8541a2286  
 🌎 **Portfolio:** *(if you have one, add here)*  
 
