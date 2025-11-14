@@ -82,13 +82,6 @@ Blockchain-powered agreement system.
 
 ---
 
-# 🐍 Contribution Snake Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrinceSingh4936/PrinceSingh4936/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 # 🌐 Connect With Me
 📩 **Email:** *prince.singh.de@gmail.com*  
 💼 **LinkedIn:** www.linkedin.com/in/prince-singh-8541a2286  
@@ -96,4 +89,11 @@ Blockchain-powered agreement system.
 
 ---
 
-⭐ *Thanks for visiting! Let’s connect & build something amazing together.*  
+# 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceSingh4936/PrinceSingh4936/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+⭐ *Thanks for visiting! Let's connect & build something amazing together.*  
