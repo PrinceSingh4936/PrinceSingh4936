@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there+👋;I'm+Prince+Singh;Full+Stack+Developer+🚀;Machine+Learning+Enthusiast+🤖;Blockchain+Learner+🔗" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there+👋;I'm+Prince;Full+Stack+Developer+🚀;Machine+Learning+Enthusiast+🤖;Blockchain+Learner+🔗" />
 </p>
 
 ---
@@ -85,7 +85,6 @@ Blockchain-powered agreement system.
 # 🌐 Connect With Me
 📩 **Email:** *prince.singh.de@gmail.com*  
 💼 **LinkedIn:** www.linkedin.com/in/prince-singh-8541a2286  
-🌎 **Portfolio:** *(if you have one, add here)*  
 
 ---
 
