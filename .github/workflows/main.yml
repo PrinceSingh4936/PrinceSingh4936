@@ -1,5 +1,9 @@
 name: Generate Snake
 
+# This gives the workflow permission to push files
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 */12 * * *"  # runs every 12 hours
@@ -13,7 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        # keep credentials so the action can push using GITHUB_TOKEN
+        with:
+          persist-credentials: true
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -26,3 +33,4 @@ jobs:
         with:
           message: "Generate snake animation"
           add: "dist/github-contribution-grid-snake.svg"
+          # uses default token (GITHUB_TOKEN) which now has write permissions
