@@ -85,6 +85,7 @@ Blockchain-powered agreement system.
 # 🌐 Connect With Me
 📩 **Email:** *prince.singh.de@gmail.com*  
 💼 **LinkedIn:** www.linkedin.com/in/prince-singh-8541a2286  
+🌐 **Personal Portfolio:** [www.linkedin.com/in/prince-singh-8541a2286](https://prince-singh-nb69fhp.gamma.site/)  
 
 ---
 
